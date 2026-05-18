@@ -1,4 +1,3 @@
-# hype-client
 # Hype Client
 
 Hype Client is a private macOS-focused Minecraft Java Edition 1.8.9 client and launcher developed for personal use and testing.
